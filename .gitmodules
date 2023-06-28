@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "intrinsicDimension"]
 	path = intrinsicDimension
 	url = https://github.com/kjohnsson/intrinsicdimension
-	shallow = true
-	registered = true
